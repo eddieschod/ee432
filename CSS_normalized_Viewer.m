@@ -19,6 +19,5 @@ G1 = tf(num(1,:),den(1,:));
 G2 = tf(num(2,:),den(2,:));
 G3 = tf(num(3,:),den(3,:));
 G4 = tf(num(4,:),den(4,:));
-lti_analysis_4 % call program lti_analysis_4.m
 % open the LTI-Viewer showing Bode plots and Step response
 ltiview({'bode','step'},G1,G2,G3,G4)
