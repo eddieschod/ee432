@@ -1,2 +1,2 @@
 # feedbackcontrolsystems
-MATLAB scripts from EE 432
+MATLAB scripts from Feedback Control Systems
